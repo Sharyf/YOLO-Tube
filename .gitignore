@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# AI/ML specific
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.pickle
+models/
+checkpoints/
+runs/
+logs/
+wandb/
+
+# Large data files (keep structure but not content)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.mpg
+*.mpeg
+*.wav
+*.mp3
+*.zip
+*.tar.gz
+*.rar
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+*.url
+test_model_avi_optimized_frame_*.jpg
+optimized_detection_log_*.txt
+config.json
+
+# Keep important structure but exclude large files
+# Uncomment if you want to exclude test data
+# test/
+# train/
+# val/

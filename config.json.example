@@ -1,0 +1,13 @@
+{
+    "last_model_path": "",
+    "last_video_path": "",
+    "confidence": 0.35,
+    "iou_threshold": 0.4,
+    "input_size": "Full Square",
+    "max_detections": 1,
+    "single_object_mode": true,
+    "enable_tracking": false,
+    "use_gpu": true,
+    "mixed_precision": true,
+    "gpu_memory_fraction": 0.8
+}
